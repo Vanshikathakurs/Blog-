@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #new-post-form {
+    margin-top: 20px;
+  }
+  
+  #new-post-form input,
+  #new-post-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
